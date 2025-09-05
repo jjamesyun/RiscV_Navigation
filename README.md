@@ -89,4 +89,4 @@ The system supports navigation to four major campus libraries:
 - **GPS Accuracy**: ±3 meter positioning
 - **Path Computation**: Sub-100ms algorithm execution
 - **Communication**: 9600 baud serial interface
-- **Display Refresh**: 60Hz VGA output
+- **Display Refresh**: 30Hz VGA output
